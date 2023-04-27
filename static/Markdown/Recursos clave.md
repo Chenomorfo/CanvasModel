@@ -1,0 +1,22 @@
+## Recursos clave
+<br>
+
+* Una/varias computadora(s) para la gestion del programa en sus respectivas areas.
+
+* Un equipo donde mantener operativo el servidor.
+
+* Toda la estructura bajo una misma red para el entorno local.
+
+* Lector NFC para la automatizacion de registros y accesos.
+
+* Tarjetas NFC individuales para cada usuario consumidor.
+
+<style>
+    h2{ font-size:34px; text-align:center}
+    h4{ font-size:25px}
+    ul{
+        display:grid;
+        gap:5px
+    }
+    p{font-size:18px;}
+</style>
